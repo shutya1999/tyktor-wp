@@ -1,0 +1,83 @@
+{
+    "report": {
+        "pass": 0,
+        "chunk": 1,
+        "chunkPos": {
+            "l0": "final_report",
+            "l1": null,
+            "l2": null
+        },
+        "progress_perc": 100,
+        "scan_tables": 20,
+        "scan_rows": 34903,
+        "scan_cells": 261110,
+        "updt_tables": 6,
+        "updt_rows": 959,
+        "updt_cells": 962,
+        "errsql": [],
+        "errser": [],
+        "errkey": [],
+        "errsql_sum": 0,
+        "errser_sum": 0,
+        "errkey_sum": 0,
+        "profile_start": 1708871674.94448,
+        "profile_end": 1708871675.863647,
+        "time": "0.9192 sec.",
+        "err_all": 0,
+        "warn_all": 0,
+        "warnlist": []
+    },
+    "cTableParams": null,
+    "replaceData": [
+        {
+            "id": 0,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "C:\/programs\/OpenServer\/domains\/tiktor-wp",
+            "replace": "\/var\/www"
+        },
+        {
+            "id": 1,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "C:\/programs\/OpenServer\/domains\/tiktor-wp",
+            "replace": "\/var\/www"
+        },
+        {
+            "id": 2,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "C:\/programs\/OpenServer\/domains\/tiktor-wp",
+            "replace": "\/var\/www"
+        },
+        {
+            "id": 3,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "urlnd",
+            "search": "http:\/\/tiktor-wp",
+            "replace": "http:\/\/localhost:8876"
+        },
+        {
+            "id": 4,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "urlnd",
+            "search": "http:\/\/tiktor-wp",
+            "replace": "http:\/\/localhost:8876"
+        }
+    ]
+}

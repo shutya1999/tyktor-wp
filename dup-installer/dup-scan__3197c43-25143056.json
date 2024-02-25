@@ -1,0 +1,315 @@
+{
+    "RPT": {
+        "ScanTime": "0.16 sec.",
+        "ScanFile": "20231013_tyktor_3197c4304194df207585_20240225143056_scan.json",
+        "Warnings": 1,
+        "Success": 5
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "mysqli": true,
+            "version": true
+        },
+        "SYS": {
+            "managedHost": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "USize": 0,
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "UFullCount": 0,
+        "FullCount": "0",
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/.opcache",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/ai1wm-backups",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/backups-dup-lite",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/backups-dup-pro",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/backupwordpress",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/bps-backup",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/cache",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/content\/cache",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/contents\/cache",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/infinitewp\/backups",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/managewp\/backups",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/old-cache",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/updraft",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/aiowps_backups",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/backupbuddy_backups",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/backupbuddy_temp",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/ithemes-security\/backups",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/mainwp\/backup",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/pb_backupbuddy",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/snapshots",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/sucuri",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/wp-clone",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/wp_all_backup",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/wpbackitup_backups",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/wfcache",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/wishlist-backup",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/.htaccess",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-config.php",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/.htaccess",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/web.config",
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-snapshots",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/backups-dup-lite",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/.opcache",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/backups-dup-pro",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/ai1wm-backups",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/backupwordpress",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/content\/cache",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/contents\/cache",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/infinitewp\/backups",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/managewp\/backups",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/old-cache",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/updraft",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/wishlist-backup",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/wfcache",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/bps-backup",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/cache",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/aiowps_backups",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/backupbuddy_temp",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/backupbuddy_backups",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/ithemes-security\/backups",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/mainwp\/backup",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/pb_backupbuddy",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/snapshots",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/sucuri",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/wp-clone",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/wp_all_backup",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/.htaccess",
+                    "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-config.php"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateProcFuncStatus": "Good",
+            "showCreateProcFunc": true,
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Warn",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Warn",
+            "Triggers": "Good",
+            "mysqlDumpMemoryCheck": true,
+            "requiredMysqlDumpLimit": "136.99MB"
+        },
+        "Size": 91218236,
+        "Rows": 36354,
+        "TableCount": 20,
+        "TableList": {
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": "98304"
+            },
+            "wp_duplicator_packages": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "188",
+                "Size": "1.16MB",
+                "USize": "1212416"
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "20,288",
+                "Size": "55.53MB",
+                "USize": "58228736"
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "734",
+                "Size": "24.73MB",
+                "USize": "25935872"
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "61",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "1,281",
+                "Size": "160KB",
+                "USize": "163840"
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "61",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "1,183",
+                "Size": "256KB",
+                "USize": "262144"
+            },
+            "wp_usermeta2": {
+                "Case": 0,
+                "Rows": "2,926",
+                "Size": "444.5KB",
+                "USize": "455164"
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "80",
+                "Size": "27.81KB",
+                "USize": "28480"
+            },
+            "wp_users1": {
+                "Case": 0,
+                "Rows": "78",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "wp_yoast_indexable": {
+                "Case": 0,
+                "Rows": "845",
+                "Size": "1.81MB",
+                "USize": "1900544"
+            },
+            "wp_yoast_indexable_hierarchy": {
+                "Case": 0,
+                "Rows": "867",
+                "Size": "112KB",
+                "USize": "114688"
+            },
+            "wp_yoast_migrations": {
+                "Case": 0,
+                "Rows": "24",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_yoast_primary_term": {
+                "Case": 0,
+                "Rows": "738",
+                "Size": "176KB",
+                "USize": "180224"
+            },
+            "wp_yoast_seo_links": {
+                "Case": 0,
+                "Rows": "6,999",
+                "Size": "2.17MB",
+                "USize": "2277376"
+            }
+        },
+        "RawSize": 91218236,
+        "EasySize": "86.99MB"
+    },
+    "LL": {
+        "TotalSize": "86.99MB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}

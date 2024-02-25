@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(E_ERROR);
 add_action( 'wp_enqueue_scripts', 'tyktor_srtle');
 
 function tyktor_srtle() {

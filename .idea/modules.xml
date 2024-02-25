@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/tiktor-wp.iml" filepath="$PROJECT_DIR$/.idea/tiktor-wp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tyktor-front/.idea/tyktor-front.iml" filepath="$PROJECT_DIR$/../tyktor-front/.idea/tyktor-front.iml" />
     </modules>
   </component>
 </project>

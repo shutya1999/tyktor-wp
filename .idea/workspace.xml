@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a376f3ae-9883-458e-b0c9-93b3fb18aa58" name="Default Changelist" comment="" />
+    <list default="true" id="a376f3ae-9883-458e-b0c9-93b3fb18aa58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tiktor-wp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tiktor-wp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/ai1wm-backups/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/ai1wm-backups/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/ai1wm-backups/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/ai1wm-backups/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/ai1wm-backups/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/20231013_tyktor_acdef826c29683c47157_20231013162140_archive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/20231013_tyktor_acdef826c29683c47157_20231013162140_installer.php.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/dup-manual-extract__4ac2f19-13162025" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/dup-manual-extract__718eec0-13160606" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/original_files_4ac2f19-13162025/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/original_files_4ac2f19-13162025/entries_stored.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/original_files_4ac2f19-13162025/source_site_htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/original_files_4ac2f19-13162025/source_site_wpconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/original_files_718eec0-13160606/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/original_files_718eec0-13160606/entries_stored.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/original_files_718eec0-13160606/source_site_htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/backups-dup-lite/tmp/original_files_718eec0-13160606/source_site_wpconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/tyktor/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/tyktor/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/tyktor/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/tyktor/single.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +43,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.2/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2crD4TDuisUq4g9J5LETELbQgPG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Library/projects/tyktor-wp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,6 +91,7 @@
       <updated>1708860612989</updated>
       <workItem from="1708860614177" duration="939000" />
       <workItem from="1708861555734" duration="621000" />
+      <workItem from="1708862934828" duration="11996000" />
     </task>
     <servers />
   </component>
@@ -55,6 +108,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

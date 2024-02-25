@@ -1,0 +1,694 @@
+{
+    "dup_type": "lite",
+    "created": "2024-02-25 14:30:56",
+    "version_dup": "1.5.6",
+    "version_wp": "6.4.3",
+    "version_db": "5.6.51",
+    "version_php": "7.4.30",
+    "version_os": "WINNT",
+    "blogname": "Tyktor",
+    "exportOnlyDB": 1,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$4EKQy0\/04aEGT1hC\/5icTeCakAf7BmI29hnWi2JVdbztP0X0FBbye",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "tiktor-wp",
+            "path": "\/",
+            "blogname": "Tyktor",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "tyktor-admin",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "http:\/\/tiktor-wp",
+            "fullSiteUrl": "http:\/\/tiktor-wp",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/uploads",
+            "fullUploadSafePath": "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads",
+            "fullUploadUrl": "http:\/\/tiktor-wp\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4",
+            "utf8"
+        ],
+        "collationList": [
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB",
+            "MyISAM"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "tyktor_new",
+        "tablesBaseCount": 20,
+        "tablesFinalCount": 20,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 36356,
+        "tablesSizeOnDisk": 91251004,
+        "tablesList": {
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 65536
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_options": {
+                "inaccurateRows": 188,
+                "insertedRows": 193,
+                "size": 1212416
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 20288,
+                "insertedRows": 20486,
+                "size": 58228736
+            },
+            "wp_posts": {
+                "inaccurateRows": 734,
+                "insertedRows": 883,
+                "size": 25935872
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 61,
+                "insertedRows": 60,
+                "size": 49152
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 1281,
+                "insertedRows": 1282,
+                "size": 163840
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 61,
+                "insertedRows": 60,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 1183,
+                "insertedRows": 1186,
+                "size": 262144
+            },
+            "wp_usermeta2": {
+                "inaccurateRows": 2926,
+                "insertedRows": 2926,
+                "size": 455164
+            },
+            "wp_users": {
+                "inaccurateRows": 80,
+                "insertedRows": 80,
+                "size": 28480
+            },
+            "wp_users1": {
+                "inaccurateRows": 78,
+                "insertedRows": 78,
+                "size": 65536
+            },
+            "wp_yoast_indexable": {
+                "inaccurateRows": 845,
+                "insertedRows": 870,
+                "size": 1900544
+            },
+            "wp_yoast_indexable_hierarchy": {
+                "inaccurateRows": 867,
+                "insertedRows": 870,
+                "size": 114688
+            },
+            "wp_yoast_migrations": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 32768
+            },
+            "wp_yoast_primary_term": {
+                "inaccurateRows": 738,
+                "insertedRows": 741,
+                "size": 180224
+            },
+            "wp_yoast_seo_links": {
+                "inaccurateRows": 6999,
+                "insertedRows": 7356,
+                "size": 2277376
+            }
+        },
+        "lowerCaseTableNames": 2,
+        "dbEngine": "MySQL",
+        "version": "5.6.51",
+        "versionComment": "MySQL Community Server (GPL)",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 3,
+        "packageName": "20231013_tyktor",
+        "packageHash": "3197c43-25143056",
+        "secondaryHash": "613bc4b-25143056"
+    },
+    "fileInfo": {
+        "dirCount": 0,
+        "fileCount": 0,
+        "size": 10647219
+    },
+    "wpInfo": {
+        "version": "6.4.3",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "C:\/programs\/OpenServer\/domains\/tiktor-wp",
+        "targetPaths": [
+            "C:\/programs\/OpenServer\/domains\/tiktor-wp"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "tyktor-admin",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "T,5+#bx5iba?$-G0&snt-6ed-3RyV?eRRK7eA,ftKrL$%7?Z D_mXfR}^&``muf2",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "Fe[@\/`,vmrl*qM$vghdq\/#95-Q%S&<rNZvP4?Wu#Uj@5&@}rWvw&FPH_W^2YsW1O",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "K(w=YE)BiuN0+w7R&Dw[dkj=JvTXPJD!Vm[|T[dSV(}LHe@`Mn$?4`Xy yrt}U0i",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "Yok74wfaGv! SvQ]lQM9X5Y(oFEH?Q}2:9$L<T0em%W&FV~o-Lt4^shEk[=qBaq0",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "55<u}A}=%u{7\/+DIIY.;Z4\/tXkgZd9TFd:l^0geawSxgUm7|}0v4[9$s*bbmqQ#s",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "XX6l2.?:E3!>J}<c=E:CpN:%ag%OH}f|Pa!&8Bm&ypqb:T+^Ni-+OJ=U\/qn:\/C&4",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "mp6IfBY\/?r3;6#]]ndi5X6;J}?AA?I})q)-}e$ov{wuKHY]*?XFQO?;PyD?4]N&y",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "&v<V9HX]\/veRfme,[4\/G?9nS}L[s7\/OY+unpBsSyOW6*)K z2d^nr}ibK];;Z#m<",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "http:\/\/tiktor-wp\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "http:\/\/tiktor-wp\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "15360M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 511,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 438,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/themes\/tyktor",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/themes\/tyktor",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "http:\/\/tiktor-wp\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "http:\/\/tiktor-wp",
+                "homeUrl": "http:\/\/tiktor-wp",
+                "loginUrl": "http:\/\/tiktor-wp\/wp-login.php",
+                "contentUrl": "http:\/\/tiktor-wp\/wp-content",
+                "uploadBaseUrl": "http:\/\/tiktor-wp\/wp-content\/uploads",
+                "pluginsUrl": "http:\/\/tiktor-wp\/wp-content\/plugins",
+                "mupluginsUrl": "http:\/\/tiktor-wp\/wp-content\/mu-plugins",
+                "themesUrl": "http:\/\/tiktor-wp\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "C:\/programs\/OpenServer\/domains\/tiktor-wp",
+                    "abs": "C:\\programs\\OpenServer\\domains\\tiktor-wp",
+                    "wpconfig": "C:\/programs\/OpenServer\/domains\/tiktor-wp",
+                    "wpcontent": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content",
+                    "uploads": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/uploads",
+                    "plugins": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/plugins",
+                    "muplugins": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/mu-plugins",
+                    "themes": "C:\\programs\\OpenServer\\domains\\tiktor-wp\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "C:\/programs\/OpenServer\/domains\/tiktor-wp",
+                    "abs": "C:\/programs\/OpenServer\/domains\/tiktor-wp",
+                    "wpconfig": "C:\/programs\/OpenServer\/domains\/tiktor-wp",
+                    "wpcontent": "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content",
+                    "uploads": "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/uploads",
+                    "plugins": "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/plugins",
+                    "muplugins": "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/mu-plugins",
+                    "themes": "C:\/programs\/OpenServer\/domains\/tiktor-wp\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "advanced-custom-fields\/acf.php": {
+                "slug": "advanced-custom-fields\/acf.php",
+                "name": "Advanced Custom Fields",
+                "version": "6.2.0",
+                "pluginURI": "https:\/\/www.advancedcustomfields.com",
+                "author": "WP Engine",
+                "authorURI": "https:\/\/wpengine.com\/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=plugin_directory&utm_content=advanced_custom_fields",
+                "description": "Customize WordPress with powerful, professional and intuitive fields.",
+                "title": "Advanced Custom Fields",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "all-in-one-wp-migration\/all-in-one-wp-migration.php": {
+                "slug": "all-in-one-wp-migration\/all-in-one-wp-migration.php",
+                "name": "All-in-One WP Migration",
+                "version": "7.79",
+                "pluginURI": "https:\/\/servmask.com\/",
+                "author": "ServMask",
+                "authorURI": "https:\/\/servmask.com\/",
+                "description": "Migration tool for all your blog data. Import or Export your blog content with a single click.",
+                "title": "All-in-One WP Migration",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "cyr2lat\/cyr-to-lat.php": {
+                "slug": "cyr2lat\/cyr-to-lat.php",
+                "name": "Cyr-To-Lat",
+                "version": "6.0.3",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/cyr2lat\/",
+                "author": "Sergey Biryukov, Mikhail Kobzarev, Igor Gergel",
+                "authorURI": "https:\/\/profiles.wordpress.org\/sergeybiryukov\/",
+                "description": "Convert Non-Latin characters in post and term slugs to Latin characters. Useful for creating human-readable URLs. Based on the original plugin by Anton Skorobogatov.",
+                "title": "Cyr-To-Lat",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.6",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-importer\/wordpress-importer.php": {
+                "slug": "wordpress-importer\/wordpress-importer.php",
+                "name": "WordPress Importer",
+                "version": "0.8.1",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/wordpress-importer\/",
+                "author": "wordpressdotorg",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "description": "Import posts, pages, comments, custom fields, categories, tags and more from a WordPress export file.",
+                "title": "WordPress Importer",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-extended-search\/wp-es.php": {
+                "slug": "wp-extended-search\/wp-es.php",
+                "name": "WP Extended Search",
+                "version": "2.1.2",
+                "pluginURI": "https:\/\/www.secretsofgeeks.com\/2014\/09\/wordpress-search-tags-and-categories.html",
+                "author": "5um17",
+                "authorURI": "https:\/\/www.secretsofgeeks.com",
+                "description": "Extend search functionality to search in selected post meta, taxonomies, post types, and all authors.",
+                "title": "WP Extended Search",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-seo\/wp-seo.php": {
+                "slug": "wordpress-seo\/wp-seo.php",
+                "name": "Yoast SEO",
+                "version": "21.0",
+                "pluginURI": "https:\/\/yoa.st\/1uj",
+                "author": "Team Yoast",
+                "authorURI": "https:\/\/yoa.st\/1uk",
+                "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+                "title": "Yoast SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "twentytwentyfour": {
+                "slug": "twentytwentyfour",
+                "themeName": "Twenty Twenty-Four",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfour\/",
+                "parentTheme": false,
+                "template": "twentytwentyfour",
+                "stylesheet": "twentytwentyfour",
+                "description": "Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentyone": {
+                "slug": "twentytwentyone",
+                "themeName": "Twenty Twenty-One",
+                "version": "1.9",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyone\/",
+                "parentTheme": false,
+                "template": "twentytwentyone",
+                "stylesheet": "twentytwentyone",
+                "description": "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme\u2019s soft colors and eye-catching \u2014 yet timeless \u2014 design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.2",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.5",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Site Editor features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "style-variations",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "tyktor": {
+                "slug": "tyktor",
+                "themeName": "Tyktor",
+                "version": "1.9",
+                "themeURI": "http:\/\/''",
+                "parentTheme": false,
+                "template": "tyktor",
+                "stylesheet": "tyktor",
+                "description": "Tyktor",
+                "author": "Shutya",
+                "authorURI": "https:\/\/www.instagram.com\/ishytin_rm\/",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Tyktor"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20231013_tyktor_3197c4304194df207585_20240225143056_installer-backup.php",
+    "package_name": "20231013_tyktor_3197c4304194df207585_20240225143056_archive.zip",
+    "package_hash": "3197c43-25143056",
+    "package_notes": ""
+}

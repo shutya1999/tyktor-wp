@@ -1,0 +1,45 @@
+{
+    "CL_-=_-=": "DUP_Extraction",
+    "zip_filetime": "current",
+    "archive_action": "donothing",
+    "archive_engine": "ziparchivechunking",
+    "extractonStart": 1708871669.964221,
+    "chunkStart": 0,
+    "root_path": "\/var\/www\/",
+    "archive_path": "\/var\/www\/20231013_tyktor_3197c4304194df207585_20240225143056_archive.zip",
+    "ajax1_error_level": 32767,
+    "dawn_status": null,
+    "archive_offset": 0,
+    "do_chunking": false,
+    "chunkedExtractionCompleted": false,
+    "num_files": 0,
+    "sub_folder_archive": "",
+    "max_size_extract_at_a_time": 2097152,
+    "zip_arc_chunk_notice_no": -1,
+    "zip_arc_chunk_notice_change_last_time": 0,
+    "zip_arc_chunks_extract_rates": [],
+    "archive_items_count": 0,
+    "filters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "20231013_tyktor_3197c4304194df207585_20240225143056_installer-backup.php"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "dup-installer"
+        ]
+    },
+    "removeFilters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "\/var\/www\/20231013_tyktor_3197c4304194df207585_20240225143056_installer-backup.php",
+            "\/var\/www\/20231013_tyktor_3197c4304194df207585_20240225143056_archive.zip",
+            "\/var\/www\/installer.php",
+            "\/var\/www\/dup-installer-bootlog__e23980c-25143056.txt"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "\/var\/www\/dup-installer"
+        ]
+    }
+}

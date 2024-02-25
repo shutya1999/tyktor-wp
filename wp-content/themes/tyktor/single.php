@@ -4,10 +4,19 @@
 
 <article class="single">
     <div class="container">
+
+        <h1 class="title"><?= the_title() ?></h1>
 		<div class="main_img_single">
 			<?php the_post_thumbnail(); ?>
 		</div>
-        <h1 class="title"><?= the_title() ?></h1>
+        <div class="author">
+            <div class="author__img">
+                <?= get_avatar( $author_id, 32 ) ?>
+            </div>
+            <div class="author__name">
+                <?= get_the_author_meta('first_name', $author_id)?> <?= get_the_author_meta('last_name', $author_id)?>
+            </div>
+        </div>
         <div class="editor">
             <?php if ( has_excerpt() ): ?>
                 <h3><?php the_excerpt() ?></h3>
@@ -16,10 +25,7 @@
         </div>
         <div class="single-footer">
             <div class="author">
-                <div class="author__img">
-                    <?= get_avatar( $author_id, 32 ) ?>
-                </div>
-                <div class="author__name"><?= get_the_author_meta('first_name', $author_id)?> <?= get_the_author_meta('last_name', $author_id)?></div>
+
             </div>
             <div class="btns">
                 <?php if (getSocial('facebook') !== ''): ?>
